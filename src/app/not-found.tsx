@@ -7,9 +7,9 @@ export default function NotFound() {
         404
       </Text>
       <Heading marginBottom="l" variant="display-strong-xs">
-        Page Not Found
+        Không tìm thấy trang
       </Heading>
-      <Text onBackground="neutral-weak">The page you are looking for does not exist.</Text>
+      <Text onBackground="neutral-weak">Trang bạn đang tìm kiếm không tồn tại.</Text>
     </Column>
   );
 }
