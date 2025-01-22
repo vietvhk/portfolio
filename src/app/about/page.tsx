@@ -163,12 +163,12 @@ export default function About() {
                 />
               </Flex>
             )}
-            <Heading className={styles.textAlign} variant="display-strong-xl">
+            <Heading className={styles.textAlign} >
               {person.name}
             </Heading>
             <Text
               className={styles.textAlign}
-              variant="display-default-xs"
+              variant="display-strong"
               onBackground="neutral-weak"
             >
               {person.role}
