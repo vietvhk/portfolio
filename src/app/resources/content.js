@@ -14,7 +14,7 @@ const person = {
 
 const newsletter = {
   display: true,
-  title: <>Subscribe to {person.firstName}'s Newsletter</>,
+  title: <>Đăng ký nhận bản tin của {person.firstName}</>,
   description: (
     <>
       I occasionally write about design, technology, and share thoughts on the intersection of
@@ -29,28 +29,28 @@ const social = [
   {
     name: "GitHub",
     icon: "github",
-    link: "https://github.com/once-ui-system/nextjs-starter",
+    link: "https://github.com/vietvhk",
   },
   {
-    name: "LinkedIn",
-    icon: "linkedin",
-    link: "https://www.linkedin.com/company/once-ui/",
-  },
-  {
-    name: "X",
-    icon: "x",
-    link: "",
+    name: "Facebook",
+    icon: "facebook",
+    link: "https://www.facebook.com/vohoangkimviet/",
   },
   {
     name: "Email",
     icon: "email",
-    link: "mailto:example@gmail.com",
+    link: "mailto:vietvhk@gmail.com",
+  },
+  {
+    name: "Phone",
+    icon: "phone",
+    link: "tel:+84787405236",
   },
 ];
 
 const home = {
   label: "Home",
-  title: `${person.name}'s Portfolio`,
+  title: `${person.lastName}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
   headline: <>Design engineer and builder</>,
   subline: (
