@@ -105,12 +105,12 @@ const about = {
         ],
         images: [
           // optional: leave the array empty if you don't want to display images
-          {
-            src: "/images/projects/project-01/cover-01.jpg",
-            alt: "Once UI Project",
-            width: 16,
-            height: 9,
-          },
+          // {
+          //   src: "/images/projects/project-01/cover-01.jpg",
+          //   alt: "Once UI Project",
+          //   width: 16,
+          //   height: 9,
+          // },
         ],
       },
       {
@@ -149,18 +149,18 @@ const about = {
         description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
         // optional: leave the array empty if you don't want to display images
         images: [
-          {
-            src: "/images/projects/project-01/cover-02.jpg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
-          {
-            src: "/images/projects/project-01/cover-03.jpg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
+          // {
+          //   src: "/images/projects/project-01/cover-02.jpg",
+          //   alt: "Project image",
+          //   width: 16,
+          //   height: 9,
+          // },
+          // {
+          //   src: "/images/projects/project-01/cover-03.jpg",
+          //   alt: "Project image",
+          //   width: 16,
+          //   height: 9,
+          // },
         ],
       },
       {
@@ -168,12 +168,12 @@ const about = {
         description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
         // optional: leave the array empty if you don't want to display images
         images: [
-          {
-            src: "/images/projects/project-01/cover-04.jpg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
+          // {
+          //   src: "/images/projects/project-01/cover-04.jpg",
+          //   alt: "Project image",
+          //   width: 16,
+          //   height: 9,
+          // },
         ],
       },
     ],
@@ -202,76 +202,76 @@ const gallery = {
   description: `A photo collection by ${person.name}`,
   // Images from https://pexels.com
   images: [
-    {
-      src: "/images/gallery/img-01.jpg",
-      alt: "image",
-      orientation: "vertical",
-    },
-    {
-      src: "/images/gallery/img-02.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-03.jpg",
-      alt: "image",
-      orientation: "vertical",
-    },
-    {
-      src: "/images/gallery/img-04.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-05.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-06.jpg",
-      alt: "image",
-      orientation: "vertical",
-    },
-    {
-      src: "/images/gallery/img-07.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-08.jpg",
-      alt: "image",
-      orientation: "vertical",
-    },
-    {
-      src: "/images/gallery/img-09.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-10.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-11.jpg",
-      alt: "image",
-      orientation: "vertical",
-    },
-    {
-      src: "/images/gallery/img-12.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-13.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-14.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
+    // {
+    //   src: "/images/gallery/img-01.jpg",
+    //   alt: "image",
+    //   orientation: "vertical",
+    // },
+    // {
+    //   src: "/images/gallery/img-02.jpg",
+    //   alt: "image",
+    //   orientation: "horizontal",
+    // },
+    // {
+    //   src: "/images/gallery/img-03.jpg",
+    //   alt: "image",
+    //   orientation: "vertical",
+    // },
+    // {
+    //   src: "/images/gallery/img-04.jpg",
+    //   alt: "image",
+    //   orientation: "horizontal",
+    // },
+    // {
+    //   src: "/images/gallery/img-05.jpg",
+    //   alt: "image",
+    //   orientation: "horizontal",
+    // },
+    // {
+    //   src: "/images/gallery/img-06.jpg",
+    //   alt: "image",
+    //   orientation: "vertical",
+    // },
+    // {
+    //   src: "/images/gallery/img-07.jpg",
+    //   alt: "image",
+    //   orientation: "horizontal",
+    // },
+    // {
+    //   src: "/images/gallery/img-08.jpg",
+    //   alt: "image",
+    //   orientation: "vertical",
+    // },
+    // {
+    //   src: "/images/gallery/img-09.jpg",
+    //   alt: "image",
+    //   orientation: "horizontal",
+    // },
+    // {
+    //   src: "/images/gallery/img-10.jpg",
+    //   alt: "image",
+    //   orientation: "horizontal",
+    // },
+    // {
+    //   src: "/images/gallery/img-11.jpg",
+    //   alt: "image",
+    //   orientation: "vertical",
+    // },
+    // {
+    //   src: "/images/gallery/img-12.jpg",
+    //   alt: "image",
+    //   orientation: "horizontal",
+    // },
+    // {
+    //   src: "/images/gallery/img-13.jpg",
+    //   alt: "image",
+    //   orientation: "horizontal",
+    // },
+    // {
+    //   src: "/images/gallery/img-14.jpg",
+    //   alt: "image",
+    //   orientation: "horizontal",
+    // },
   ],
 };
 
