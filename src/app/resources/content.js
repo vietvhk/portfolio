@@ -52,11 +52,10 @@ const home = {
   label: "Home",
   title: `${person.lastName}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Design engineer and builder</>,
+  headline: <>Front-End Developer</>,
   subline: (
     <>
-      I'm Selene, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive
-      <br /> user experiences. After hours, I build my own projects.
+      Hi, I'm Viet, a developer based in Ho Chi Minh. I specialize in building high-quality websites and applications with modern technologies.
     </>
   ),
 };
@@ -81,9 +80,7 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        Selene is a Jakarta-based design engineer with a passion for transforming complex challenges
-        into simple, elegant design solutions. Her work spans digital interfaces, interactive
-        experiences, and the convergence of design and technology.
+        Viet is a front-end developer based in Ho Chi Minh. He specializes in building high-quality
       </>
     ),
   },
@@ -92,17 +89,18 @@ const about = {
     title: "Work Experience",
     experiences: [
       {
-        company: "FLY",
-        timeframe: "2022 - Present",
-        role: "Senior Design Engineer",
+        company: "DFM - TECH",
+        timeframe: "2020 - Present",
+        role: "Front-End Developer",
         achievements: [
           <>
-            Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
-            engagement and 30% faster load times.
+            HTML, CSS, JavaScript website design and development for a variety of clients.
           </>,
           <>
-            Spearheaded the integration of AI tools into design workflows, enabling designers to
-            iterate 50% faster.
+            Develop website work with WordPress use Elementor, Divi, WPBakery, etc.
+          </>,
+          <>
+            Project with ThreeJS 3D, PaintJS, etc.
           </>,
         ],
         images: [
@@ -116,21 +114,20 @@ const about = {
         ],
       },
       {
-        company: "Creativ3",
-        timeframe: "2018 - 2022",
-        role: "Lead Designer",
+        company: "GMTECH",
+        timeframe: "2018 - 2020",
+        role: "Front-End Developer",
         achievements: [
           <>
-            Developed a design system that unified the brand across multiple platforms, improving
-            design consistency by 40%.
+            HTML, CSS, JavaScript website design and development for a variety of clients.
           </>,
           <>
-            Led a cross-functional team to launch a new product line, contributing to a 15% increase
-            in overall company revenue.
+            Develop website work with WordPress use Elementor, Divi, WPBakery, etc.
           </>,
         ],
         images: [],
       },
+      
     ],
   },
   studies: {
@@ -138,12 +135,8 @@ const about = {
     title: "Studies",
     institutions: [
       {
-        name: "University of Jakarta",
-        description: <>Studied software engineering.</>,
-      },
-      {
-        name: "Build the Future",
-        description: <>Studied online marketing and personal branding.</>,
+        name: "VHU University",
+        description: <>Technology development</>,
       },
     ],
   },
